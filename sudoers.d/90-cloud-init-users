@@ -1,0 +1,4 @@
+# Created by cloud-init v. 21.4-0ubuntu1~20.04.1 on Thu, 16 Dec 2021 13:36:29 +0000
+
+# User rules for l124
+l124 ALL=(ALL) NOPASSWD:ALL
